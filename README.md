@@ -23,7 +23,10 @@ List the key technologies used to build the dashboard.
 Data on ~500 ski resorts around the world, including details on their location, prices, slopes, lifts, and seasons, as well as a complementary table with the snow cover around the world for each month of 2022.
 
 5. Features / Highlights
-The best dashboard explanation format. • Business problem • Goal of the dashboard • Walk through of key visuals (briefly!) • Business impact & Insights
+• Business problem
+• Goal of the dashboard
+• Walk through of key visuals 
+• Business impact & Insights
 
  • Business Problem The global ski tourism industry generates billions in revenue, yet travelers, tour operators, and analysts often lack an intuitive way to compare resorts across countries.
 
